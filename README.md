@@ -159,3 +159,9 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 1.[wtlucky's Blog](http://weibo.com/wtlucky) 百度知道团队，iOS工程师
 
 2.[我就叫Sunny怎么了](http://weibo.com/p/1005051364395395) 百度知道团队，前 百度iOS研发工程师孙源 
+
+3.[iOS程序犭袁](http://weibo.com/luohanchenyilong) 
+
+#iOS GitHub
+----
+[微博@iOS程序犭袁](https://github.com/ChenYilong) 
