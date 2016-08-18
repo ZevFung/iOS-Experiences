@@ -1,7 +1,8 @@
 
-#开源项目
+#常用第三方开源项目和优秀博客等（持续更新-20160819）
+##开源项目
 ---
-## 常用第三方开源项目
+### 常用第三方开源项目
 ===
 1.  [SDWebImage](https://github.com/rs/SDWebImage)  
 地址：https://github.com/rs/SDWebImage  
@@ -86,7 +87,7 @@ block框架
 iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换效果,支持 iPad,提供多种切换效果。内容类似的页面需要并排列出来,供用户选择  
 28. [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)   
 地址：https://github.com/gsdios/SDCycleScrollView  
-轮播图无限  
+轮播图，但是伪无限循环
 29. [JazzHands](https://github.com/IFTTT/JazzHands)  
 地址：https://github.com/IFTTT/JazzHands  
 图片动画，多用于启动页  
@@ -134,9 +135,23 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 44. [ccgus/fmdb](https://github.com/ccgus/fmdb)  
 地址：https://github.com/ccgus/fmdb  
 框架：第三方SQLite数据库框架。以OC的方式封装了SQLite的C语言API，提供 SQLite 数据库的类，用于执行 SQL 语句。  
+45. [ibireme/YYKit](https://github.com/ibireme/YYKit)  
+地址：https://github.com/ibireme/YYKit  
+框架：YYKit 是一组庞大、功能丰富的 iOS 组件。
+为了尽量复用代码，这个项目中的某些组件之间有比较强的依赖关系。为了方便其他开发者使用，我从中拆分出以下独立组件：
+    * [YYModel](https://github.com/ibireme/YYModel) — 高性能的 iOS JSON 模型框架。
+	* [YYCache](https://github.com/ibireme/YYCache) — 高性能的 iOS 缓存框架。
+	* [YYImage](https://github.com/ibireme/YYImage) — 功能强大的 iOS 图像框架。
+	* [YYWebImage](https://github.com/ibireme/YYWebImage) — 高性能的 iOS 异步图像加载框架。
+	* [YYText](https://github.com/ibireme/YYText) — 功能强大的 iOS 富文本框架。
+	* [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) — iOS 键盘监听管理工具。
+	* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) — iOS 全局并发队列管理工具。
+	* [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) — iOS 异步绘制与显示的工具。
+	* [YYCategories](https://github.com/ibireme/YYCategories) — 功能丰富的 Category 类型工具库。
 
 
-## 其他开源项目
+
+### 其他开源项目
 ===
 1.  SDAutoLayout
 2.  IDMPhotoBrowser
@@ -146,7 +161,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 8.  WebViewJavaScriptBridge:OC和js交互的框架
 
 
-#学习网站
+##网站
 ---
 1. [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 学习JavaScript教程和Python教程的网站
 2. [苹果开源](http://opensource.apple.com/) 苹果的一些开源类库
@@ -154,7 +169,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 
 
 
-#iOS博客
+##iOS博客
 ---
 1. [wtlucky's Blog](http://blog.wtlucky.com/) 百度知道团队，iOS工程师博客
 2. [我就叫Sunny怎么了](http://blog.sunnyxx.com/) 百度知道团队，前 百度iOS研发工程师孙源 
@@ -163,7 +178,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 5. [Garan no dou | 一只魔法师的工坊](http://blog.ibireme.com/)郭曜源，开源 YYKit 的作者
 6. [里脊串的开发随笔](http://adad184.com/) 里脊串
 
-#iOS微博
+##iOS微博
 ---
 1. [wtlucky's Blog](http://weibo.com/wtlucky) 百度知道团队，iOS工程师
 2. [我就叫Sunny怎么了](http://weibo.com/p/1005051364395395) 百度知道团队，前 百度iOS研发工程师孙源 
@@ -175,7 +190,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 8. [里脊串](http://www.weibo.com/ljc1986) 里脊串
 
 
-#iOS GitHub
+##iOS GitHub
 ---
 1. [微博@iOS程序犭袁](https://github.com/ChenYilong) 微博@iOS程序犭袁
 2. [forkingdog](https://github.com/forkingdog) 百度的开源项目
@@ -185,6 +200,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 6. [Yaoyuan - ibireme](https://github.com/ibireme) 郭曜源，开源 YYKit 的作者
 7. [ralph li - adad184](https://github.com/adad184) 里脊串
 
-#iOS 简书
+##iOS 简书
 ---
 1. [jackjhu](http://www.jianshu.com/users/4840bb4d0f7a/latest_articles) 腾讯一名iOS工程师
+
