@@ -178,7 +178,10 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 ---
 1. Prepo  
 描述：一款免费且方便的图标转化器，它可以帮助设计师快速的导出各种尺寸的图标。设计师通过Prepo把任何格式的图片文件转换成iOS可用的图片格式。此外，通过点击Prepo对话框底部“copy plist”按钮，设计师可以轻松的把导出的文件复制到Xcode中，节省了设计师大量的工作时间。
-
+2. Slicy
+描述：Slicy是MacRabbit公司的跨世纪经典之作，可谓是iOS设计师必备一款的切图神器，旨在帮助设计师解决在切图上的烦恼。
+Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软件Photoshop生成的专有格式）拖进Slicy的窗口，Slicy就会自动生成.jpg和.png等格式的切图文件，除此之外，Slicy还能够把普通像素的图片转换成视网膜像素的高品质图片。
+ 
 ##Xcode工具插件
 ---
 1. [Injection for Xcode](https://github.com/johnno1962/injectionforxcode)  
