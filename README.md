@@ -1,9 +1,9 @@
 
-#iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160819）
+#iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160823）
 ##开源框架
 ---
 ### 常用开源框架
-===
+
 1.  [SDWebImage](https://github.com/rs/SDWebImage)  
 地址：https://github.com/rs/SDWebImage  
 下载和缓存网络图片，可以使用TMCache替代，TMCache是tumblr团队使用的缓存项目  
@@ -162,7 +162,7 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 框架：JS和OC交互的框架，比如拦截URL
 
 ### 其他开源框架
-===
+
 1.  SDAutoLayout
 2.  IDMPhotoBrowser
 3.  DACircularProgress
@@ -171,15 +171,16 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 8.  WebViewJavaScriptBridge:OC和js交互的框架
  
 ##开源项目
-===
+---
 暂无
 
 ##MAC优秀软件
+---
 1. Prepo  
 描述：一款免费且方便的图标转化器，它可以帮助设计师快速的导出各种尺寸的图标。设计师通过Prepo把任何格式的图片文件转换成iOS可用的图片格式。此外，通过点击Prepo对话框底部“copy plist”按钮，设计师可以轻松的把导出的文件复制到Xcode中，节省了设计师大量的工作时间。
 
 ##Xcode工具插件
-===
+---
 1. [Injection for Xcode](https://github.com/johnno1962/injectionforxcode)  
 	地址：https://github.com/johnno1962/injectionforxcode  
 	描述：Xcode高端必备插件。iOS UI调试神器，成吨的提高开发效率
@@ -187,14 +188,13 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 ##网站
 ---
 ###iOS网站
-===
 
 1. [苹果开源](http://opensource.apple.com/) 苹果的一些开源类库
 2. [码云](http://git.oschina.net/)	代码管理仓库，类似gitHub
 3. [爱情守望者](http://www.waitsun.com/)	分享mac的破解软件
 4. [OneAPM](http://www.oneapm.com/) 为企业和开发者提供APM解决方案
 ###其他网站
-===
+
 1. [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 学习JavaScript教程和Python教程的网站
 2. [实验楼](https://www.shiyanlou.com/) 在线编程网站，如Python
 
@@ -234,4 +234,5 @@ iCarousel 是一个用来简化在 iOS 上实现旋转木马时的视图切换�
 1. [jackjhu](http://www.jianshu.com/users/4840bb4d0f7a/latest_articles) 腾讯一名iOS工程师
 
 ##iOS文章
+---
 [iOS应用性能调优的25个建议和技巧](http://ios.jobbole.com/37984/)
