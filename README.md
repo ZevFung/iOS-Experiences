@@ -247,4 +247,4 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 > 20160823 MAC优秀软件、Xcode工具插件和开源项目，更新排版
 <br>
 <br>
-该文档已上传GitHub:[iOS常用第三方开源项目和优秀开发者博客等（持续更新-20160823）](https://github.com/ZevFung/Share-iOS-experiences)
+该文档已上传GitHub:[ZevFung/Share-iOS-experiences](https://github.com/ZevFung/Share-iOS-experiences)
