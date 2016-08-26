@@ -1,5 +1,5 @@
 
-#iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160824）
+#iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160826）
 
 >博客收藏iOS开发过程好的开源框架、开源项目、Xcode工具插件、Mac软件、文章等，会不断更新维护，希望对你们有帮助。如果有推荐或者建议，请到此处提交推荐或者联系我。  
 >该文档已提交GitHub，点击查看[ZevFung/Share-iOS-experiences](https://github.com/ZevFung/Share-iOS-experiences)
@@ -28,7 +28,7 @@
 	地址：https://github.com/Mantle/Mantle  
 	描述：将json数据模型化model对象  
 7.  [GDataXML](https://github.com/neonichu/GDataXML)  
-	地址：https://github.com/neonichu/GDataXML 
+	地址：https://github.com/neonichu/GDataXML   
 	描述：DOM方式解析，由google开发，基于Libxml2.。Google提供的用于XML数据处理的类集。该类集对libxml2--DOM处理方式进行了封装，能对较小或中等的xml文档进行读写操作且支持XPath语法。纯c语言，默认包含在ios SDK中，同时支持DOM和SAX方式解析  
 8.  [AFNetworking]()  
 	地址：https://github.com/AFNetworking/AFNetworking  
@@ -166,8 +166,8 @@
 	地址：https://github.com/marcuswestin/WebViewJavascriptBridge 
 	描述：JS和OC交互的框架，比如拦截URL
 50. [erica/uidevice-extension](https://github.com/erica/uidevice-extension)
-地址：https://github.com/erica/uidevice-extension 
-描述：主要用于读取各种平台(iPhone、iPad、模拟器)下设备的信息
+	地址：https://github.com/erica/uidevice-extension 
+	描述：主要用于读取各种平台(iPhone、iPad、模拟器)下设备的信息
 
 ### 其他开源框架
 
@@ -180,7 +180,9 @@
 
 ##开源项目
 ---
-暂无
+1. [SunLiner/MiaowShow](https://github.com/SunLiner/MiaowShow)
+地址：https://github.com/SunLiner/MiaowShow 
+描述：iOS视频直播项目
 
 ##Mac软件
 ---
@@ -206,7 +208,17 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 7. Snip
 	价格：免费  
  	描述：一款腾讯推出的一款截图工具，是Mac平台的截屏应，支持自动识别窗口、图标标记再次编辑、关联QQ邮箱截屏、滚动截屏、邮件分享截图、支持Retina显示屏等。但这软件很久没更新了。
- 	
+8. iOS Images Extractor
+	价格：免费  
+ 	描述：一款获取Assets.car中全部资源的工具。	
+####逆向工具
+1. [class-dump](https://github.com/nygard/class-dump) 或则[class-dump](http://stevenygard.com/projects/class-dump/) 
+	地址：https://github.com/nygard/class-dump、http://stevenygard.com/projects/class-dump
+	描述：class-dump,是可以把OC运行时的声明的信息导出来的工具，就是可以导出.h文件。用class-dump可以把未经加密的app的头文件导出来。class-dump的作用对象必须是未经加密的可执行文件，而从App Store下载的App都是经过加密签名的，相当于有一层“壳”，class-dump应付不了这样的文件
+2. [Hopper Disassembler](https://www.hopperapp.com/)   
+ 	地址：https://www.hopperapp.com  
+	描述：反编译工具。MAC下的反编译、反汇编和调试神器。
+	
 ##Xcode插件
 ---
 1. [Injection for Xcode](https://github.com/johnno1962/injectionforxcode)  
@@ -240,7 +252,7 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 6. [onevcat](http://weibo.com/onevcat) 瞄神，Unity 开发者。现居日本，就职于 LINE，出书《swifter 2.0》
 7. [M了个J](http://weibo.com/exceptions) 小码哥CEO，MJRefresh、MJExtension框架开发者
 8. [里脊串](http://www.weibo.com/ljc1986) 里脊串
-
+9. [高可用架构](http://archnotes.io) 「高可用架构」技术社区官方微博。
 
 ##GitHub
 ---
@@ -260,19 +272,31 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 ---
 1. [iOS应用性能调优的25个建议和技巧](http://ios.jobbole.com/37984/)
 2. [【iOS】导航栏那些事儿](http://www.jianshu.com/p/f797793d683f)
+####逆向文章
+1. [（iOS逆向工程）class-dump 安装与使用](http://www.cnblogs.com/hepeilin/p/3847713.html)
+2. [使用class-dump导出其他应用头文件](http://www.jianshu.com/p/6a6ce18f998e)
+####直播文章
+1. [移动直播技术秒开优化经验（含PPT）](http://weibo.com/ttarticle/p/show?id=2309403969318634263193)
+2. http://www.jianshu.com/users/09de5a29bdc5/latest_articles
+3. http://www.jianshu.com/users/9723687edfb5/latest_articles
+4. http://www.jianshu.com/users/5555583f44a5/latest_articles
+
+
 
 <br>
 <br>
 > 更新日志：  
 > 修改时间：2016-08-19 初始创建  
-> 修改时间：2016-08-23 添加MAC软件、Xcode工具插件和开源项目类别，更新排版
-> 修改时间：2016-08-24 增加前言和联系，更新排版
-> 修改时间：2016-08-25 更新MAC软件
+> 修改时间：2016-08-23 新增MAC软件、Xcode工具插件和开源项目类别，更新排版  
+> 修改时间：2016-08-24 增加前言和联系，更新排版  
+> 修改时间：2016-08-25 更新MAC软件  
+> 修改时间：2016-08-26 更新MAC软件和开源项目，新增文章子类别直播文章和逆向文章，更新排版 
+
 
 <br>
 <br>
 联系我
   
-[博客园：冯子武](http://www.cnblogs.com/Zev_Fung/)    
-[简书：冯子武](http://www.jianshu.com/users/1a24b23aa083/latest_articles)  
-[weibo：子武不是字母](weibo.com/2547726414)  
+[博客园](http://www.cnblogs.com/Zev_Fung/)    
+[简书](http://www.jianshu.com/users/1a24b23aa083/latest_articles)  
+[微博](weibo.com/2547726414)  
