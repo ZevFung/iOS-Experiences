@@ -1,5 +1,5 @@
 
-#iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160826）
+#iOS常用第三方开源框架和优秀开发者博客等
 
 >博客收藏iOS开发过程好的开源框架、开源项目、Xcode工具插件、Mac软件、文章等，会不断更新维护，希望对你们有帮助。如果有推荐或者建议，请到此处提交推荐或者联系我。  
 >该文档已提交GitHub，点击查看[ZevFung/iOS-Experiences](https://github.com/ZevFung/iOS-Experiences)
@@ -211,6 +211,15 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 8. iOS Images Extractor
 	价格：免费  
  	描述：一款获取Assets.car中全部资源的工具。	
+9. GitHub Desktop for Mac
+	价格：免费  
+ 	描述：GitHub客户端，可以很方便管理仓库。	
+10. PP助手 for Mac
+	价格：免费  
+ 	描述：PP助手客户端，利用PP助手可以快速管理自己的iPhone，在Mac开发中多多少少会用到。
+11. Office2016 for Mac 大客户免激活版
+    价格：免费  
+ 	描述：Office2016 for Mac 大客户免激活版，直接安装，开袋即食，不需要去额外破解或者找序列号。
 ####逆向工具
 1. [class-dump](https://github.com/nygard/class-dump) 或则[class-dump](http://stevenygard.com/projects/class-dump/) 
 	地址：https://github.com/nygard/class-dump、http://stevenygard.com/projects/class-dump
@@ -292,8 +301,8 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 > 修改时间：2016-08-23 新增MAC软件、Xcode工具插件和开源项目类别，更新排版  
 > 修改时间：2016-08-24 增加前言和联系，更新排版  
 > 修改时间：2016-08-25 更新MAC软件  
-> 修改时间：2016-08-26 更新MAC软件和开源项目，新增文章子类别直播文章和逆向文章，更新排版 
-
+> 修改时间：2016-08-26 更新MAC软件和开源项目，新增文章子类别直播文章和逆向文章，更新排版   
+> 修改时间：2016-09-09 更新MAC软件
 
 <br>
 <br>
