@@ -14,7 +14,7 @@
 地址：https://github.com/tumblr/TMCache  
 2.  [Masonry](https://github.com/Masonry/Masonry)  
 	地址：https://github.com/Masonry/Masonry  
-	描述：AutoLayout扩展工具，比苹果官方好用  
+	描述：对AutoLayout封装，比苹果官方好用  
 3.  [MJRefresh](https://github.com/CoderMJLee/MJRefresh)  
 	地址：https://github.com/CoderMJLee/MJRefresh  
 	描述：上拉和下拉刷新框架
@@ -221,8 +221,9 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
     价格：免费  
  	描述：Office2016 for Mac 大客户免激活版，直接安装，开袋即食，不需要去额外破解或者找序列号。
 ####逆向工具
-1. [class-dump](https://github.com/nygard/class-dump) 或则[class-dump](http://stevenygard.com/projects/class-dump/) 
-	地址：https://github.com/nygard/class-dump、http://stevenygard.com/projects/class-dump
+1. [class-dump](https://github.com/nygard/class-dump) 或则[class-dump](http://stevenygard.com/projects/class-dump/)   
+	地址：https://github.com/nygard/class-dump    
+         http://stevenygard.com/projects/class-dump  
 	描述：class-dump,是可以把OC运行时的声明的信息导出来的工具，就是可以导出.h文件。用class-dump可以把未经加密的app的头文件导出来。class-dump的作用对象必须是未经加密的可执行文件，而从App Store下载的App都是经过加密签名的，相当于有一层“壳”，class-dump应付不了这样的文件
 2. [Hopper Disassembler](https://www.hopperapp.com/)   
  	地址：https://www.hopperapp.com  
@@ -288,9 +289,11 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 2. [使用class-dump导出其他应用头文件](http://www.jianshu.com/p/6a6ce18f998e)
 ####直播文章
 1. [移动直播技术秒开优化经验（含PPT）](http://weibo.com/ttarticle/p/show?id=2309403969318634263193)
-2. http://www.jianshu.com/users/09de5a29bdc5/latest_articles
-3. http://www.jianshu.com/users/9723687edfb5/latest_articles
-4. http://www.jianshu.com/users/5555583f44a5/latest_articles
+2. [直播文章推荐](http://www.jianshu.com/p/baefebf800a4)
+3. [快速集成iOS基于RTMP的视频推流](http://www.jianshu.com/p/8ea016b2720e)
+4. [iOS视频直播初窥:高仿<喵播APP>](http://www.jianshu.com/p/b8db6c142aad)
+5. [iOS直播-播放基于RTMP协议的视频](http://www.jianshu.com/p/a7d9ed02cf40)
+6. [Mac上搭建直播服务器Nginx](http://www.jianshu.com/p/5ee84e403ea8)
 
 
 
@@ -302,7 +305,7 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 > 修改时间：2016-08-24 增加前言和联系，更新排版  
 > 修改时间：2016-08-25 更新MAC软件  
 > 修改时间：2016-08-26 更新MAC软件和开源项目，新增文章子类别直播文章和逆向文章，更新排版   
-> 修改时间：2016-09-09 更新MAC软件
+> 修改时间：2016-09-09 更新MAC软件、直播文章
 
 <br>
 <br>
