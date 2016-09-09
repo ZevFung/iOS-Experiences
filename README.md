@@ -2,7 +2,7 @@
 #iOS常用第三方开源框架和优秀开发者博客等（持续更新-20160826）
 
 >博客收藏iOS开发过程好的开源框架、开源项目、Xcode工具插件、Mac软件、文章等，会不断更新维护，希望对你们有帮助。如果有推荐或者建议，请到此处提交推荐或者联系我。  
->该文档已提交GitHub，点击查看[ZevFung/Share-iOS-experiences](https://github.com/ZevFung/Share-iOS-experiences)
+>该文档已提交GitHub，点击查看[ZevFung/iOS-Experiences](https://github.com/ZevFung/iOS-Experiences)
 
 ##开源框架
 ---
@@ -230,7 +230,9 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 1. [苹果开源](http://opensource.apple.com/) 苹果的一些开源类库
 2. [码云](http://git.oschina.net/)	代码管理仓库，类似gitHub
 3. [爱情守望者](http://www.waitsun.com/)	分享mac的破解软件
-4. [OneAPM](http://www.oneapm.com/) 为企业和开发者提供APM解决方案5. [云梯](https://www.loveyunti.com/users/sign_in) 云梯致力于提供专业的 VPN 服务(收费的)6. [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 学习JavaScript教程和Python教程的网站
+4. [OneAPM](http://www.oneapm.com/) 为企业和开发者提供APM解决方案
+5. [云梯](https://www.loveyunti.com/users/sign_in) 云梯致力于提供专业的 VPN 服务(收费的)
+6. [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 学习JavaScript教程和Python教程的网站
 7. [实验楼](https://www.shiyanlou.com/) 在线编程网站，如Python
 
 ##博客
