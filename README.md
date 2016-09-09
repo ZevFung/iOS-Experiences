@@ -222,8 +222,7 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
  	描述：Office2016 for Mac 大客户免激活版，直接安装，开袋即食，不需要去额外破解或者找序列号。
 ####逆向工具
 1. [class-dump](https://github.com/nygard/class-dump) 或则[class-dump](http://stevenygard.com/projects/class-dump/)   
-	地址：https://github.com/nygard/class-dump    
-         http://stevenygard.com/projects/class-dump  
+	地址：http://stevenygard.com/projects/class-dump  
 	描述：class-dump,是可以把OC运行时的声明的信息导出来的工具，就是可以导出.h文件。用class-dump可以把未经加密的app的头文件导出来。class-dump的作用对象必须是未经加密的可执行文件，而从App Store下载的App都是经过加密签名的，相当于有一层“壳”，class-dump应付不了这样的文件
 2. [Hopper Disassembler](https://www.hopperapp.com/)   
  	地址：https://www.hopperapp.com  
