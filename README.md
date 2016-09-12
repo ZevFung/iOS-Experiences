@@ -180,9 +180,15 @@
 
 ##开源项目
 ---
-1. [SunLiner/MiaowShow](https://github.com/SunLiner/MiaowShow)
-地址：https://github.com/SunLiner/MiaowShow 
-描述：iOS视频直播项目
+1. [SunLiner/MiaowShow](https://github.com/SunLiner/MiaowShow)  
+	地址：https://github.com/SunLiner/MiaowShow   
+	描述：iOS视频直播项目，高仿Blog<喵播APP>
+2. [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)  
+	地址：https://github.com/Coding/Coding-iOS   
+	描述：Coding_iOS客户端项目介绍
+3. [oschina / git-osc-iphone](https://git.oschina.net/oschina/git-osc-iphone)  
+	地址：https://git.oschina.net/oschina/git-osc-iphone   
+	描述：Git@OSC iPhone 客户端
 
 ##Mac软件
 ---
@@ -304,7 +310,8 @@ Slicy操作十分简单，设计师只要把PSD文件（著名的图像处理软
 > 修改时间：2016-08-24 增加前言和联系，更新排版  
 > 修改时间：2016-08-25 更新MAC软件  
 > 修改时间：2016-08-26 更新MAC软件和开源项目，新增文章子类别直播文章和逆向文章，更新排版   
-> 修改时间：2016-09-09 更新MAC软件、直播文章
+> 修改时间：2016-09-09 更新MAC软件、直播文章  
+> 修改时间：2016-09-12 更新开源项目
 
 <br>
 <br>
